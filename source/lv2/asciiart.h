@@ -12,4 +12,4 @@ static char* asciiart = "\n"
 
 
 static char* asciitail =
-	"GModz Tuts PUBLIC - Thanks for your support! - Se7ensins.com - XeLL RELOADED - Xenon Linux Loader\n\n";
+	"GModz Tuts x 7s PUBLIC - Thanks for your Support! - Se7ensins.com - XeLL RELOADED - Xenon Linux Loader\n\n";
