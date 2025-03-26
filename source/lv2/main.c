@@ -116,7 +116,7 @@ int main(){
 #elif defined XTUDO_THEME
     console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_PINK); // Pink text on black bg
 #elif defined DEFAULT_THEME
-    console_set_colors(CONSOLE_COLOR_RED,CONSOLE_COLOR_BACK); // Black text on red bg
+    console_set_colors(CONSOLE_COLOR_RED,CONSOLE_COLOR_BLACK); // Black text on red bg
 #else
     console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_GREEN); // Green text on black bg
 #endif
