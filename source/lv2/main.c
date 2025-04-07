@@ -112,7 +112,7 @@ int main(){
     dumpana();
 
 #ifdef SWIZZY_THEME
-    console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_PURPLE); // Purple text on black bg
+    console_set_colors(CONSOLE_COLOR_PURPLE,CONSOLE_COLOR_BLACK); // Black text on purple bg
 #elif defined XTUDO_THEME
     console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_PINK); // Pink text on black bg
 #elif defined DEFAULT_THEME
