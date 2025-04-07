@@ -114,7 +114,7 @@ int main(){
 #ifdef SWIZZY_THEME
     console_set_colors(CONSOLE_COLOR_RED,CONSOLE_COLOR_WHITE); // White text on red bg
 #elif defined XTUDO_THEME
-    console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_ORANGE); // Orange text on black bg
+    console_set_colors(CONSOLE_COLOR_ORANGE,CONSOLE_COLOR_BLACK); // Black text on orange bg
 #elif defined DEFAULT_THEME
     console_set_colors(CONSOLE_COLOR_BLACK,CONSOLE_COLOR_RED); // Red text on black bg
 #else
